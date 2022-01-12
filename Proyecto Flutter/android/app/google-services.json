@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "357605248393",
+    "project_id": "cerveceriaapp-dba56",
+    "storage_bucket": "cerveceriaapp-dba56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357605248393:android:4c57ee3a7a907b2a6a2558",
+        "android_client_info": {
+          "package_name": "com.example.parcial_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357605248393-25amft0tjs6evupufvg6gdjorpdej4ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parcial_1",
+            "certificate_hash": "d71bd16f4a9f1cd03b896356396b67bdacd7a76b"
+          }
+        },
+        {
+          "client_id": "357605248393-j5685p817rhh0pduuda59s2qd60378d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIDS-8aC2FpYmRmeOzU7BNj97xWTK2Rhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357605248393-j5685p817rhh0pduuda59s2qd60378d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
